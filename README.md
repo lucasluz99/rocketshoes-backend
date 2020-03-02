@@ -4,7 +4,7 @@ API construída em NodeJs e express para o calculo do frete e prazo de entrega a
 
 # Próxima funcionalidade
 
-Integração ao PayPal
+Integração com o PayPal
 
 # Rotas
 
