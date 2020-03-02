@@ -1,6 +1,6 @@
 # Por quê ?
 
-API construída em NodeJs e express para o calculo do frete e prazo de entrega consultado a API dos correios.
+API construída em NodeJs e express para o calculo do frete e prazo de entrega através da API dos correios.
 
 # Próxima funcionalidade
 
