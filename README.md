@@ -1,3 +1,11 @@
+# Por quê ?
+
+API construída em NodeJs e express para o calculo do frete e prazo de entrega consultado a API dos correios.
+
+# Próxima funcionalidade
+
+Integração ao PayPal
+
 # Rotas
 
 > *URL Base*: http://localhost:3335
